@@ -1,0 +1,15 @@
+C:\Users\Intel\source\repos\Haker\Haker\bin\Release\Haker.exe.config
+C:\Users\Intel\source\repos\Haker\Haker\bin\Release\Haker.exe
+C:\Users\Intel\source\repos\Haker\Haker\bin\Release\Haker.pdb
+C:\Users\Intel\source\repos\Haker\Haker\bin\Release\Anarchy.dll
+C:\Users\Intel\source\repos\Haker\Haker\bin\Release\Colorful.Console.dll
+C:\Users\Intel\source\repos\Haker\Haker\bin\Release\Leaf.xNet.dll
+C:\Users\Intel\source\repos\Haker\Haker\bin\Release\Newtonsoft.Json.dll
+C:\Users\Intel\source\repos\Haker\Haker\bin\Release\websocket-sharp.dll
+C:\Users\Intel\source\repos\Haker\Haker\bin\Release\Leaf.xNet.xml
+C:\Users\Intel\source\repos\Haker\Haker\bin\Release\Newtonsoft.Json.xml
+C:\Users\Intel\source\repos\Haker\Haker\obj\Release\Haker.csprojAssemblyReference.cache
+C:\Users\Intel\source\repos\Haker\Haker\obj\Release\Haker.csproj.CoreCompileInputs.cache
+C:\Users\Intel\source\repos\Haker\Haker\obj\Release\Haker.csproj.CopyComplete
+C:\Users\Intel\source\repos\Haker\Haker\obj\Release\Haker.exe
+C:\Users\Intel\source\repos\Haker\Haker\obj\Release\Haker.pdb
