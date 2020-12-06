@@ -1,6 +1,7 @@
 <h1 align="center">Discord Token Wrecker</h1>
 <h3 align="center">Destroys/wrecks discord accounts with their token</h3>
-<h4 align="center">⭐ Don't forget to leave a star! ⭐</h4>
+<h4 align="center">I am not responsible for any damage done with this tool.</h4>
+<h5 align="center">⭐ Don't forget to leave a star! ⭐</h5>
 
 ## v1.1:
 **Added - Flood account with spam servers.**
